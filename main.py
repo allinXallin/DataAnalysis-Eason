@@ -42,13 +42,11 @@
 #     main()
 
 
-
+#=======================tkinter案例===========================
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 from tkinter import *
-#from tkColorChooser import askcolor
-__author__ = 'Chuntao Lu'
 
 
 class Paint(object):
@@ -128,4 +126,5 @@ class Paint(object):
 
 
 if __name__ == '__main__':
+    #这是好东西
     ge = Paint()
